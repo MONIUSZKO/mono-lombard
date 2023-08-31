@@ -22,7 +22,7 @@
 
 - Wejdź do ```config/config.lua```
 - Następnie ustaw wszystkie parametry pod siebe
-- Zapisz plik klikając ```ctrl +s```
+- Zapisz plik klikając ```ctrl + s```
 
 ## Dependencies
 - _ox_lib_,
