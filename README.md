@@ -16,7 +16,7 @@
 - Pobierz skrypt
 - Wrzuć wypakowany skrypt do folderu resources
 - Wjedź do pliku server.cfg bądź resources.cfg i dopisz ```ensure mono-lombard```
-- Zapisz plik i
+- Zapisz plik klikając ```ctrl + s```
 
 ## Konfiguracja
 
