@@ -28,7 +28,7 @@
 - _ox_lib_,
 - _qtarget lub bt-target_,
 - _PolyZone_,
-- __interior: ed Pawn Shop_.
+- _interior: ed Pawn Shop_.
 
 ## Licencja
 >GPL-3.0 license
